@@ -1,4 +1,4 @@
-name: ChatEmojis
+name: EmojiPack
 version: ${project.version}
 main: com.rmjtromp.chatemojis.ChatEmojis
 api-version: 1.13
