@@ -1,120 +1,147 @@
-hypixel:
+emojipack:
   basic:
-    heart:
-      emoticon: '<3'
-      emoji: '&c❤'
-    star:
-      emoticon: ':star:'
-      emoji: '&6✮'
-    yes:
-      emoticon: ':yes:'
-      emoji: '&a✔'
-    no:
-      emoticon: ':no:'
-      emoji: '&c✖'
-    java:
-      emoticon: ':java:'
-      emoji: '&b☕'
-    arrow:
-      emoticon: ':arrow:'
-      emoji: '&e➜'
-    shrug:
-      emoticon: ':shrug:'
-      emoji: '&e¯\\_(ツ)_/¯'
-    tableflip:
-      emoticon: ':tableflip:'
-      emoji: '&c(╯°□°）╯&r&f︵&r&7 ┻━┻'
-    wave:
-      emoticon: 'o/'
-      emoji: '&d( ﾟ◡ﾟ)/'
-    123:
-      emoticon: ':123:'
-      emoji: '&a1&r&e2&r&c3'
-    totem:
-      emoticon: ':totem:'
-      emoji: '&b☉&r&e_&r&b☉'
-    typing:
-      emoticon: ':typing:'
-      emoji: '&e✎&r&6...'
-    maths:
-      emoticon: ':maths:'
-      emoji: '&a√&r&e&l(&r&aπ&r&a&l+x&r&e&l)&r&a&l=&r&c&lL'
-    snail:
-      emoticon: ':snail:'
-      emoji: '&e@&r&a''&r&e-&r&a'''
-    thinking:
-      emoticon: ':thinking:'
-      emoji: '&6(&r&a0&r&6.&r&ao&r&c?&r&6)'
-    gimme:
-      emoticon: ':gimme:'
-      emoji: '&b༼つ◕_◕༽つ'
-    wizard:
-      emoticon: ':wizard:'
-      emoji: '&e(&r&b''&r&e-&r&b''&r&e)⊃&r&c━&r&d☆ﾟ.*･｡ﾟ'
-    pvp:
-      emoticon: ':pvp:'
-      emoji: '&e⚔'
-    peace:
-      emoticon: ':peace:'
-      emoji: '&a✌'
-    oof:
-      emoticon: ':oof:'
-      emoji: '&c&lOOF'
-    puffer:
-      emoticon: ':puffer:'
-      emoji: '&e&l<(''O'')>'
-  premium:
-    snow:
-      emoticon: ':snow:'
-      emoji: '&b☃'
-    yey:
-      emoticon: ':yey:'
-      emoji: '&aヽ (◕◡◕) ﾉ'
-    sloth:
-      emoticon: ':sloth:'
-      emoji: '&6(&r&8・&r&6⊝&r&8・&r&6)'
-    hey:
-      emoticon: 'h/'
-      emoji: '&eヽ(^◇^*)/'
-    cat:
-      emoticon: ':cat:'
-      emoji: '&e= &r&b＾● ⋏ ●＾&r&e ='
-    dab:
-      emoticon: ':dab:'
-      emoji: '&d<&r&eo&r&d/'
-    dog:
-      emoticon: ':dog:'
-      emoji: '&6(ᵔᴥᵔ)'
-    joy:
-      emoticon: [ '^_^', '^-^' ]
-      emoji: '&a$1'
-    dj:
-      emoticon: ':dj:'
-      emoji: '&9ヽ&r&5(&r&d⌐&r&c■&r&6_&r&e■&r&b)&r&3ノ&r&9♬'
-    cute:
-      emoticon: ':cute:'
-      emoji: '&e(&r&a✿&r&e◠‿◠)'
-facepalm:
-  emoticon: ':facepalm:'
-  emoji: '&6(&e－‸ლ&6)'
-skull:
-  emoticon: ':skull:'
-  emoji: '&7☠'
-uwu:
-  emoticon: 'UwU'
-  emoji: '&d$1'
-owo:
-  emoticon: 'OwO'
-  emoji: '&b$1'
-happy:
-  emoticon: ':)'
-  emoji: '☺'
-sad:
-  emoticon: ':('
-  emoji: '☹' 
-music:
-  emoticon: ':music:'
-  emoji: ['&c♫', '&9♬', '&3♪', '&5♩', '&a♭', '&e♪'] 
-playername:
-  emoticon: ':playername:'
-  emoji: '&9%player_name%'
+    grin:
+      emoticon: ':grin:'
+      emoji: '&f'
+    beaming:
+      emoticon: ':beaming:'
+      emoji: '&f'
+    smile:
+      emoticon: ':smile:'
+      emoji: '&f'
+    ill:
+      emoticon: ':ill:'
+      emoji: '&f'
+    devil_smile:
+      emoticon: ':devil_smile:'
+      emoji: '&f'
+    facemask:
+      emoticon: ':facemask:'
+      emoji: '&f'
+    wink:
+      emoticon: ':wink:'
+      emoji: '&f'
+    wink_grin:
+      emoticon: ':wink_grin:'
+      emoji: '&f'
+    tongue_smile:
+      emoticon: ':tongue_smile:'
+      emoji: '&f'
+    hot:
+      emoticon: ':hot:'
+      emoji: '&f'
+    devil_sad:
+      emoticon: ':devil_sad:'
+      emoji: '&f'
+    heart_eyes:
+      emoticon: ':heart_eyes:'
+      emoji: '&f'
+    sweat_smile:
+      emoticon: ':sweat_smile:'
+      emoji: '&f'
+    eyes:
+      emoticon: ':eyes:'
+      emoji: '&f'
+    cool_dude:
+      emoticon: ':cool_dude:'
+      emoji: '&f'
+    angry:
+      emoticon: ':angry:'
+      emoji: '&f'
+    poop:
+      emoticon: ':poop:'
+      emoji: '&f'
+    k:
+      emoticon: ':k:'
+      emoji: '&f'
+    sad:
+      emoticon: ':sad:'
+      emoji: '&f'
+    cry:
+      emoticon: ':cry:'
+      emoji: '&f'     
+    tongue_squint:
+      emoticon: ':tongue_squint:'
+      emoji: '&f'
+    drool:
+      emoticon: ':drool:'
+      emoji: '&f'
+    tear_flood:
+      emoticon: ':tear_flood:'
+      emoji: '&f'
+    wink_tongue:
+      emoticon: ':wink_tongue:'
+      emoji: '&f'
+    omg:
+      emoticon: ':omg:'
+      emoji: '&f'
+    shocked:
+      emoticon: ':shocked:'
+      emoji: '&f'
+    vile:
+      emoticon: ':vile:'
+      emoji: '&f'
+    clown:
+      emoticon: ':clown:'
+      emoji: '&f'
+    thumbs_up:
+      emoticon: ':thumbs_up:'
+      emoji: '&f'
+    thumbs_down:
+      emoticon: ':thumbs_down:'
+      emoji: '&f'
+    mind_blown:
+      emoticon: ':mind_blown:'
+      emoji: '&f'
+    cold:
+      emoticon: ':cold:'
+      emoji: '&f'
+    angel:
+      emoticon: ':angel:'
+      emoji: '&f'
+    wow:
+      emoticon: ':wow:'
+      emoji: '&f'
+    zipped:
+      emoticon: ':zipped:'
+      emoji: '&f'
+    red_heart:
+      emoticon: ':red_heart:'
+      emoji: '&f'
+    yellow_heart:
+      emoticon: ':yellow_heart:'
+      emoji: '&f'
+    purple_heart:
+      emoticon: ':purple_heart:'
+      emoji: '&f'
+    green_heart:
+      emoticon: ':green_heart:'
+      emoji: '&f'
+    upside_down:
+      emoticon: ':upside_down:'
+      emoji: '&f'
+    tired:
+      emoticon: ':tired:'
+      emoji: '&f'
+    skull:
+      emoticon: ':skull:'
+      emoji: '&f'
+    yellow_skull:
+      emoticon: ':yellow_skull:'
+      emoji: '&f'     
+    cowboy:
+      emoticon: ':cowboy:'
+      emoji: '&f'
+    pumpkin_smile:
+      emoticon: ':pumpkin_smile:'
+      emoji: '&f'
+    broken_heart:
+      emoticon: ':broken_heart:'
+      emoji: '&f'
+#  premium:
+#    example:
+#      emoticon: ':example:'
+#      emoji: '&f'
+
+#permission for premium = chatemojis.use.emojipack.premium.<EMOJI_NAME>
+#permission for basic = chatemojis.use.emojipack.basic.<EMOJI_NAME>
