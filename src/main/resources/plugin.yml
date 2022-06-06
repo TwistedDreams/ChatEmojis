@@ -2,7 +2,7 @@ name: ChatEmojis
 version: ${project.version}
 main: com.rmjtromp.chatemojis.ChatEmojis
 api-version: 1.13
-authors: [ RMJTromp ]
+authors: [ RMJTromp, TwistedDreams ]
 soft-depend: [ PlaceholderAPI ]
 
 commands:
